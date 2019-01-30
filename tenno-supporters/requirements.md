@@ -6,6 +6,14 @@ description: Things admins expect of you as a Tenno Supporter
 
 Help people! It doesn't have to be limited to your position, but please be wary of stepping on another Supporter's toes, especially when you're in their realm. If another Supporter asks you to back off, please respect them and give them a chance to help out.
 
+* Do not leak any team sensitive information to those who it is not appropriate to discuss with. For example, NEVER screenshot \#the-vents and send it to non-team members.
+* Must be professional and deal with users respectfully. No bullying or harassment towards users or other mods.
+* Encouraged to be registered on our forums, so you can provide information or feedback as needed.
+* Must show respect to admins. You can offer feedback as long as it is done in the right attitude and professionally. Flaming/raging at an admin may have you removed from your role.
+* Must follow our server rules, Warframe Terms and Discord Terms of Use.
+* Must maintain activity within either voice or text chat. At least 50 messages posted per month so we know you're still around, watching chat and interacting.
+* Do not start arguments with fellow teammates in public chats. If there is any tension, deal with it calmly and take it to a private discussion before jumping back into moderators.
+
 **Tenno Guides:**  
 Simply, help. Sometimes this just means helping a user step through decisions of what to do next in the game, all the way to explaining systems like what a riven is \(in general, you can forward them to \#riven-hub for those questions\) or what the hell status chance is.
 

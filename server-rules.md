@@ -1,7 +1,7 @@
 # Server Rules
 
 1. If a staff member tells you not to do something, don't do it.
-2. Keep content to its respective channel. Keep the \#discussion channel Warframe related, server-specific issues belong in \#off-topic-discussion, anime goes in \#anime, \#off-topic-discussion for discussions, pictures that don’t have another place in the server, and memes. The rules still apply in all of these places, and this rule is a reinforcement of common sense.
+2. Keep content to its respective channel. Keep the \#discussion channel Warframe related, server-specific issues belong in \#off-topic-discussion, \#off-topic-discussion for discussions, pictures that don’t have another place in the server, and memes. The rules still apply in all of these places, and this rule is a reinforcement of common sense.
 3. Keep bot commands within \#botspam.
 4.  Be polite and respect each other. Slurs, excessive profanity, harassment, sexism, racism, bullying, obscene, politically-charged, and sexual content will not be tolerated. This applies to all posted content in addition to voice chat, usernames, and avatars. Usernames should be pingable, meaning zalgo or other characters that interfere with pinging the user or disrupt chat should be removed, or a nickname applied if those characters are in the username. **On the internet, NSFW \(not safe for work\) is used to mark URLs and hyperlinks which link to videos and other pages containing nudity, intense sexuality, profanity, violence, gore and/or other potentially disturbing subject matter, which the viewer may not wish to be seen looking at in a public or formal environment, including a workplace or school.**
 5. Only ping the Moderator role when necessary.

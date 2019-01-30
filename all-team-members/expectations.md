@@ -14,7 +14,7 @@ When moderating on our server, we have expectations of you as you represent our 
 * Avoid being biased or rude towards a user due to "cliques" formed, or because it seems cool or popular at the time. If you feel that you have developed a bias towards a user, please run it by an Admin or another Moderator first
 * If members are publicly expressing their concerns about a topic which is not appropriate to discuss in a public channel as it may escalate into an uncivil argument or would be better taken up with an admin, then politely inform them that they should take up their concerns with an Administrator or use the reports/suggestion form.
 * Don’t punish users as a joke as it may be misinterpreted by them or others as a serious punishment and reflect negatively on the Moderator team
-* Interact with the community either with text or voice chat gat a pace that is comfortable for you \(say hi, talk about the weather, talk about Warframe, answer a question, post an emote - just remain visible\)
+* Interact with the community either with text or voice chat at a pace that is comfortable for you \(say hi, talk about the weather, talk about Warframe, answer a question, post an emote - just remain visible\)
 * Deliver punishments that are fair and consistent for all users no matter who breaks our rules
 * If you feel like being quiet for a while or need some time off or plan on being away, make sure you post in the \#going-away-board channel on our team server to avoid being demoted for short breaks, vacations, or emergencies
 * Avoid talking about activity of other mods - we all have lives outside of warframe / discord and each mod will be able to contribute different hours based on their commitments

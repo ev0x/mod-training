@@ -1,4 +1,4 @@
-# Moderator Tools
+# Tools
 
 {% hint style="info" %}
 Please take a few minutes to set up accounts on these sites and get access. After you're setup, open the bookmark manager of your browser, and add all of these links to a new folder titled "Warframe Discord" for future reference and quick access.

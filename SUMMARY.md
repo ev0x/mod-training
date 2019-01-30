@@ -10,12 +10,12 @@
 * [Code of Conduct](all-team-members/code-of-conduct.md)
 * [Communication](all-team-members/communication.md)
 * [Setting up Discord](all-team-members/setting-up-discord.md)
+* [Tools](all-team-members/moderator-tools.md)
 * [Perks](all-team-members/perks.md)
 
 ## Moderators
 
 * [Getting Started after Approval](moderators/getting-started-after-approval.md)
-* [Moderator Tools](moderators/moderator-tools.md)
 * [Mod Bot Commands](moderators/mod-bot-commands.md)
 * [Action Log](moderators/action-log.md)
 * [Requirements](moderators/requirements.md)

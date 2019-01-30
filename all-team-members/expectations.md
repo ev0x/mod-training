@@ -20,7 +20,8 @@ When moderating on our server, we have expectations of you as you represent our 
 * Avoid talking about activity of other mods - we all have lives outside of warframe / discord and each mod will be able to contribute different hours based on their commitments
 * Be a positive example: people will follow your lead, so don't talk down to anyone or contribute to any drama
 * Don’t hold your power over people’s heads by bragging, threatening, or scaring them, etc. and don’t use your Moderator position as objective justification for your actions.
-* Have fun! While we want you to be professional, we want you to enjoy yourself on our server•    Do not come to us with drama. Keep it off the server. If you have an issue with someone, deal with it in private discussion. If you want to report someone, do it respectfully and speak to an admin or head moderator. 
+* Have fun! While we want you to be professional, we want you to enjoy yourself on our server•    Do not come to us with drama. Keep it off the server. If you have an issue with someone, deal with it in private discussion. If you want to report someone, do it respectfully and speak to an admin or head moderator.
+* Avoid guesswork. If you don't know, get help from other guides, look it up, or tell the player you don't know but will look. Misinformation is the enemy of progress. 
 
 {% hint style="warning" %}
 DE does a wonderful job of being professionals, having fun, and serving the community and we should follow their example. We're here to put a smile on peoples faces, help them in Warframe, and be a positive force in our community

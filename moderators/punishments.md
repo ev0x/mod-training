@@ -18,7 +18,7 @@ If you would like to search for a past case, go to \#mod-bot-spam and type in
 
 When a user breaks a rule, it's important to have the right attitude and mindset. Remember, people join our server from different regions of the world, have faced different experiences, and may be different than you. Some may need to be treated more assertively and others with a delicate touch but punishments should be consistent for all users. It is up to you to learn how to strike this balance and it comes with time and experience.
 
-When you are granted Moderator, you have access to these bot commands so please use them carefully and infrequently and only until absolutely necessary.
+When you are granted Moderator, you have access to these bot commands so please use them carefully, infrequently, and only when absolutely necessary.
 
 Follow the guidelines below on when and how to use bot commands along with some examples. We are trusting you with a major responsibility. We are the guardians of a server for a game that is recognized around the world, a game that brings joy to players, a game that developers support their families and make a living from, a game that brings people together from all walks of life.
 
@@ -34,7 +34,8 @@ Note: Warnings to users should be documented with the `!warn`command, always
 * User posts NSFW image once
 * User posts racist / sexist / lewd / inappropriate messages once
 * User begins to insult others, bully users, and/or be toxic
-* User has an obscene avatar User has an obscene nickname
+* User has an obscene avatar
+* User has an obscene nickname
 * User is advertising a website or scam or discord server
   * you can direct users to appropriate channels if it is just content creation or a if the link has been allowed to be posted by an admin or mod
 * User is mic-spamming or disturbing voice chat User posts something that isn't in our rule list but remains in a grey area 

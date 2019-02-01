@@ -43,12 +43,11 @@ description: General server bot commands
 ### **Fredboat♪♪**
 
 `;;play [search term or link]` - play song  
-****`;;stop` - Stop playing  
+`;;stop` - Stop playing  
 `;;nowplaying` - Show current song  
 `;;queue` - Show the queue
 
-  
+
 `;;shuffle` - Shuffle the songs you've added  
 `;;skip` - Vote to skip the current song  
 `;;repeat` - Change the repeat mode.
-

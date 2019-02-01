@@ -20,8 +20,8 @@ Here are some tips for dealing with users:
 
 * Communicate with users in a cool, calm and collected tone
 * Remain professional at all times no matter how angry you become
-* Start off with a right attitude, if you are feeling drained take a break
-* Remember, give users quick, respectful messages that are to the point, honest, and well formulated 
+* Start off with the right attitude, if you are feeling drained take a break
+* Remember, give users quick, respectful messages that are to the point, honest, and well formulated
 * Always provide a reason for any action taken towards a user
 * Never use hateful language or do anything to instigate, provoke, or antagonize a user
 
@@ -44,7 +44,7 @@ While we want to enforce our rules, we don't want to be too strict. We want a pl
 * Invite users to the server with [https://discord.gg/warframe](https://discord.gg/warframe) or offer them our info page at [https://warframe.gg](https://warframe.gg)
 * Reports can be sent to [https://warframe.gg/report](https://warframe.gg/report) where all admins will be able to review and respond
 * Any feedback that is not a suggestion or idea can also be sent using the report page
-* Keep **\#discussion** channel warframe-related, and server issues \(not suggestions\), memes, other topics in **\#off-topic-discussion**; however, you don’t have to be too strict with this rule especially if chat is slow.
+* Keep **\#discussion** channel Warframe-related, and server issues \(not suggestions\), memes, other topics in **\#off-topic-discussion**; however, you don’t have to be too strict with this rule especially if chat is slow.
 * Direct users to apply at our application form pages found in **\#community-news** when the applications are open
 * Direct users to **\#spoilers channel** when posting information that hasn’t been available on all platforms for at least 2 weeks on ALL platforms.
 
@@ -52,9 +52,8 @@ While we want to enforce our rules, we don't want to be too strict. We want a pl
 
 The admins each have a general focus of where they operate in their duties, but all are able to be reached to for advice if needed. They may seem daunting to talk to like any one of the current staff members, but we're all here to try and keep the server we enjoy running smoothly.
 
-Please speak to an 🥒 **active** 🥒 ****admin for any emergencies or important discussions relating to the server. Remember to keep any drama or inside jokes away from the server to allow for a professional environment where everyone feels welcome to contribute.
+Please speak to an 🥒 **active** 🥒 admin for any emergencies or important discussions relating to the server. Remember to keep any drama or inside jokes away from the server to allow for a professional environment where everyone feels welcome to contribute.
 
 All admins have access to reviewing and responding to reports on [https://wfdiscord.freshdesk.com](https://wfdiscord.freshdesk.com)
 
 The Admins: Lapis, **Misan**, **AlexisMachina**, **Tobiah**, Jakey, **iPathos**
-

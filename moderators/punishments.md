@@ -14,7 +14,7 @@ Please remember that after this training we fully expect you to use the bot comm
 
 If you would like to search for a past case, go to \#mod-bot-spam and type in
 
-`!inf search` 
+`!inf search`
 
 When a user breaks a rule, it's important to have the right attitude and mindset. Remember, people join our server from different regions of the world, have faced different experiences, and may be different than you. Some may need to be treated more assertively and others with a delicate touch but punishments should be consistent for all users. It is up to you to learn how to strike this balance and it comes with time and experience.
 
@@ -36,9 +36,10 @@ Note: Warnings to users should be documented with the `!warn`command, always
 * User begins to insult others, bully users, and/or be toxic
 * User has an obscene avatar
 * User has an obscene nickname
-* User is advertising a website or scam or discord server
-  * you can direct users to appropriate channels if it is just content creation or a if the link has been allowed to be posted by an admin or mod
-* User is mic-spamming or disturbing voice chat User posts something that isn't in our rule list but remains in a grey area 
+* User is advertising a website, scam or discord server
+  * you can direct users to appropriate channels if it is just content creation or if the link has been allowed to be posted by an admin or mod
+* User is mic-spamming or disturbing voice chat
+* User posts something that isn't in our rule list but remains in a grey area
   * using a known meme to attempt to talk down or bully someone else
 
 ### Mute
@@ -54,23 +55,23 @@ Command: `!mute [user] [reason]`
 
 ### Kick
 
-Command: ****`!kick [user] [reason]`
+Command: `!kick [user] [reason]`
 
 * User refuses to change an obscene avatar after being warned 24 hours prior and an additional warning
 * User refuses to change nickname after a new nickname has been applied and 2 warnings have been issued and added with !warn \[user\]
 * User continues to post discord links or advertise websites after being warned once to stop and take the link to admins or mods first
-* User begins rapidly switching voice channels. ****
+* User begins rapidly switching voice channels
 
 ### **Softban**
 
 Command: `!softban [user] [reason]`
 
 * User continues to post racist / sexist / strongly offensive comments after being warned once
-* User continues to post NSFW memes/images after being warned once
+* User continues to post NSFW memes / images after being warned once
 * User continues to insult / annoy users or be toxic after being warned twice
 * User attempts to sell Warframe accounts or post data-mined content
 * User posts long paragraphs and/or spam messages in \#discussion after being warned once and having the messages deleted
-* User spams lewd or inappropriate messages in \#discussion that must be cleared 
+* User spams lewd or inappropriate messages in \#discussion that must be cleared
 
 ### **Ban**
 
@@ -81,9 +82,8 @@ Command: `!ban [user] [reason]` or `!tempban [user] [time] [reason]`
 * User sends mass pings \(@mentions\) and/or Private Messages to other server users
 * User spam-posts pictures \(including NSFW\)
 * User continues to trash DE, admins or mods after being warned once
-* User continues to post NSFW are being warned and receiving a softban
+* User continues to post NSFW after being warned and receiving a softban
 * User keeps advertising a discord server after receiving one warning and a kick
 * User keeps mic-spamming / disturbing voice chat after being warned and muted
 * User continues to break rules after receiving multiple warnings and punishments
-* User coming back with an alt account to start trouble or circumvent a previous ban \(please be careful! sometimes a user may seem like an alt but they are just members coming from warframe who are entirely new to discord. Investigate first\) 
-
+* User coming back with an alt account to start trouble or circumvent a previous ban \(please be careful! sometimes a user may seem like an alt but they are just members coming from Warframe who are entirely new to discord. Investigate first\) 

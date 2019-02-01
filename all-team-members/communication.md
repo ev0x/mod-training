@@ -8,7 +8,7 @@ Communicating with users in a respectful tone, professional manner, and calm voi
 This section contains help for moderators. **\#mod-bot-spam** is only available to moderators.
 {% endhint %}
 
-Follow these guidelines for communicating with users whether in public or private channels - including \#twilight-zone Remember, it is always best to deliver warnings in private and make sure to document warnings with the `!warn` command in **\#mod-bot-spam**. You can check how many warnings a user has with the `!inf search [user]` command.
+Follow these guidelines for communicating with users whether in public or private channels - including **\#jade-light** Remember, it is always best to deliver warnings in private and make sure to document warnings with the `!warn` command in **\#mod-bot-spam**. You can check how many warnings a user has with the `!inf search [user]` command.
 
 
 
